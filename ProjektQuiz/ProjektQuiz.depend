@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1590222401 source:c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\main.c
+	"Quiz.h"
+	"switches.h"
+	"structures.h"
+
+1590176014 source:c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\quiz.c
+	"Quiz.h"
+	"switches.h"
+	"structures.h"
+
+1590163139 c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\quiz.h
+	"structures.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<unistd.h>
+	<ctype.h>
+
+1589129932 source:c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\readstruct.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+
+1590216407 source:c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\switches.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<ctype.h>
+
+1590163312 c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\switches.h
+
+1590129684 c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\structures.h
+
+1589958085 c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\memoryleak.h
+
+1589959359 source:c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\memoryleak.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"memoryLeak.h"
+
+1590128561 c:\users\korwin\desktop\university\programowanie\projekt quiz\projekt\projektquiz\mlfdef.h
+	<crtdbg.h>
+	<afxwin.h>
+	<dbgint.h>
+
